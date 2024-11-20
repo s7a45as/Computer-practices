@@ -54,9 +54,11 @@
 2. 哪些功能UDP提供了但IP没提供？
 
 ## 协议实现机制
+![alt text](assets/question/image-16.png)
 ### 5-14 协议机制示例
 ![协议机制图1](assets/question/image-4.png)
 ![协议机制图2](assets/question/image-5.png)
+
 
 ### 5-15 实时传输分析
 ![实时传输图](assets/question/image-6.png)
